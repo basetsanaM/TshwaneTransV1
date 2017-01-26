@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context="com.example.codetribe.tshwanetransv1.MainActivity"
+    android:background="@drawable/areyeng"
+   >
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button1_name"
+        android:id="@+id/loginButton"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:id="@+id/emailField"
+        android:hint="Email..."
+        android:fontFamily="casual"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:layout_below="@+id/emailField"
+        android:layout_alignStart="@+id/emailField"
+        android:layout_marginTop="20dp"
+        android:id="@+id/passwordField"
+        android:hint="Password..."
+        android:fontFamily="casual"/>
+
+
+</RelativeLayout>

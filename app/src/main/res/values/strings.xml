@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TshwaneTrans</string>
+    <string name="button1_name">Login</string>
+    <string name="textBox1_name">emailTxtBox</string>
+    <string name="textBox2_name">Register</string>
+
+</resources>

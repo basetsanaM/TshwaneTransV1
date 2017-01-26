@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "139827427705",
+    "firebase_url": "https://tshwanetrans.firebaseio.com",
+    "project_id": "tshwanetrans",
+    "storage_bucket": "tshwanetrans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139827427705:android:fefa76228e11580c",
+        "android_client_info": {
+          "package_name": "com.example.codetribe.tshwanetransv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139827427705-ih6q9so1q30b8n7ahkmt1v4031ubb4os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codetribe.tshwanetransv1",
+            "certificate_hash": "566E9CDF0F9D0414583BE51F5B8F28276B3EA065"
+          }
+        },
+        {
+          "client_id": "139827427705-12v110g3juflnq065121grohq6j78ejf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyXTlLWan23mYjPqSGY-oJ-Ib52ZCJJcM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139827427705-12v110g3juflnq065121grohq6j78ejf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
